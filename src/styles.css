@@ -1,0 +1,48 @@
+body{
+    background-color: #f8f9fa;
+}
+hr {
+    color: white
+}
+
+.github-icon{
+    height: 29px;
+}
+
+.linkedin-icon{
+    height: 30px;
+}
+
+.card-dims {
+    height: 15rem;
+    width: 10rem;
+}
+
+.current-sprint-height {
+    height: 75vh;
+}
+
+.hour-counter > .btn {
+    width: 50px;
+    height: 50px;
+    font-weight: bold;
+}
+
+.hour-count {
+    width: 100px;
+    height: 100px;
+    font-size: 3rem;
+    font-weight: bold;
+}
+
+.fixed-btn {
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
+    z-index: 777;
+}
+
+.stats-font{
+    font-size: 3rem;
+    font-weight: bold;
+}
